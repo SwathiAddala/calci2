@@ -1,0 +1,12 @@
+body{
+    background-image: url(grey.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-style: inherit;
+}
+table{
+    background-color:black;
+}
+button{
+    background-color: gray;
+}
